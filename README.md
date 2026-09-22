@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Guilherm3rc
 - 👀 I’m interested in learn new programming languages ​​and technological innovations.
 - 🌱 I’m currently learning: Creation of codes and logic.
-- 📫 How to reach me: ID Instagram @guilhermerc_
 - ⚡ Fun fact: I'm a chess player and I know how to complete 7 different types of Rubik's cubes.
 
 <!---
